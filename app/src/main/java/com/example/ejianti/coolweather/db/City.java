@@ -38,4 +38,6 @@ public class City extends DataSupport {
     public int getProvinceId() {
         return provinceId;
     }
+
+    public void setProvinceId(int provinceId) {this.provinceId = provinceId; }
 }
